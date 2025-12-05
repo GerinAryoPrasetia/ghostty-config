@@ -47,7 +47,7 @@
 # # Just for example:
 # resize-overlay-duration = 4s 200ms
 #
-theme = Catppuccin Macchiato
+theme = Atom One Dark
 background-opacity = 0.94
 # keybind=ctrl+shift+w=close_window
 confirm-close-surface=false
